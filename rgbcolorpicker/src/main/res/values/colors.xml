@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- All used background is a swatches from material.google.com -->
+    <color name="colorRed">#EF5350</color> <!-- Red 400 -->
+    <color name="colorGreen">#66BB6A</color> <!-- Green 400 -->
+    <color name="colorBlue">#42A5F5</color> <!-- Blue 400 -->
+    <color name="colorBackground">#EEEEEE</color> <!-- Grey 200 -->
+</resources>

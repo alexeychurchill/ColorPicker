@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RGB Color Picker</string>
+    <string name="dialog_title">Choose color</string>
+    <string name="dialog_choose_confirm_text">OK</string>
+    <string name="dialog_choose_cancel_text">Cancel</string>
+    <string name="caption_web_color">WEB-color</string>
+    <string name="caption_red">Red</string>
+    <string name="caption_green">Green</string>
+    <string name="caption_blue">Blue</string>
+</resources>
