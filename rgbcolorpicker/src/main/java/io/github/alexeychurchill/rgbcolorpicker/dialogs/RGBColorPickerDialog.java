@@ -7,8 +7,6 @@ import android.support.annotation.NonNull;
 import android.support.v4.app.DialogFragment;
 import android.support.v7.app.AlertDialog;
 
-import java.util.Locale;
-
 import io.github.alexeychurchill.rgbcolorpicker.R;
 import io.github.alexeychurchill.rgbcolorpicker.views.RGBColorPickerView;
 
